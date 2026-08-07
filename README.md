@@ -1,6 +1,7 @@
 # TikTokAutoSparkWeb
 
 抖音火花助手 Web 管理平台，基于 Vue 3 + Element Plus 构建，提供抖音好友火花自动续期的可视化管理系统。
+这是通过AI辅助开发的基于kinux的docker版本
 
 **📨 如果该项目对您有帮助,感谢您留下Start🌟**
 
